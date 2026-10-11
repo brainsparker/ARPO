@@ -54,7 +54,7 @@
 
 
 ## 📣 Latest News
-
+- **[Oct 12, 2026]**: 🚀 We released Agent-Reflex, teaching language agents to act reflectively under noisy environments. See the [GitHub](https://github.com/RUC-NLPIR/Agent-Reflex).
 - **[Jan 26, 2026]**: 🎉 Our paper **[Agentic Reinforced Policy Optimization](https://arxiv.org/abs/2507.19849)** has been accepted at ICLR 2026!
 - **[Jan 20, 2026]**: 🎉 Our paper **[Agentic Entropy-Balanced Policy Optimization](https://arxiv.org/abs/2510.14545)** has been accepted at WWW 2026 (Oral)!
 - **[Dec 20, 2025]**: 🚀🚀🚀 We released **[AEPO-32B](https://huggingface.co/dongguanting/QwQ-32B-AEPO-DeepSearch)** and **[ARPO-32B](https://huggingface.co/dongguanting/QwQ-32B-ARPO-DeepSearch)** (based on **QwQ-32B**), achieving **53.4/12.8** and **51.5/11.2** on **GAIA/HLE**.
